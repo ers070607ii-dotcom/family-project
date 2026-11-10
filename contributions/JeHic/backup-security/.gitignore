@@ -1,0 +1,11 @@
+# Runtime data and sensitive files
+budget.db
+budget.db-*
+backups/
+uploads/
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.restore-stage-*/
